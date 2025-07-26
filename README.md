@@ -128,7 +128,7 @@ For each OU:
 
 ## 📄 Documentation
 
-👉 [View the full project PDF](final)
+👉 [View the full project PDF](Final_AD_Project_With_New_Logo.pdf)
 
 ---
 
