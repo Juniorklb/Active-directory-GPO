@@ -128,7 +128,7 @@ For each OU:
 
 ## 📄 Documentation
 
-👉 [View the full project PDF](link-to-your-pdf)
+👉 [View the full project PDF](final)
 
 ---
 
